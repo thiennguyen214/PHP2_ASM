@@ -1,0 +1,10 @@
+{
+    "name": "hey/pro",
+    "description": "n",
+    "autoload": {
+        "psr-4": {
+            "Hey\\Pro\\": "src/"
+        }
+    },
+    "require": {}
+}
